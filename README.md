@@ -1,5 +1,4 @@
-# design
-**Test design techniques**
+# ✔️ design
 
 Test design techniques are used to systematize testing, reduce testing time, and identify the maximum number of defects before release.
 The online store [demoshopping.ru](https://demoshopping.ru/) study project has several modules such as Registration and Authorization, Catalog, Payment. 
